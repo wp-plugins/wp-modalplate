@@ -36,7 +36,7 @@ Special thanks to <a href="https://twitter.com/chrishumboldt">@chrishumboldt</a>
 
 == Screenshots ==
 
-Coming soon...
+1. Example
 
 == Frequently Asked Questions ==
 
