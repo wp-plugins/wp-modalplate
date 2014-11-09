@@ -9,8 +9,8 @@ if ( ! defined( 'ABSPATH' ) ) exit;
 	});
 	</script>
 
-HEREDOC;=======
-<?php
+HEREDOC;
+
 if ( ! defined( 'ABSPATH' ) ) exit;
 
     $trigger .= <<<HEREDOC
